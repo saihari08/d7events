@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.MarksSheet{
+  display: inline-block;
+  background-color: aqua;
+  padding: 30px; 
+}
+
+.MarksSheet label{
+  display: inline-block;
+  width: 250px;
+}
+.MarksSheet div{
+  margin: 15px;
+}
+.resultpara{
+  width: 350px;
+}
+span{
+  display: inline-block;
+  width: 100px;
+}
